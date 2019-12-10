@@ -1,5 +1,6 @@
 from conans import ConanFile, tools
 
+
 class MqttcppConan(ConanFile):
     name = "mqtt_cpp"
     version = "7.0.1"

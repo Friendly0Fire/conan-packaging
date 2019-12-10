@@ -1,5 +1,6 @@
 from conans import ConanFile, tools, CMake
 
+
 class RapidyamlConan(ConanFile):
     name = "rapidyaml"
     version = "0.3"
